@@ -54,7 +54,8 @@ My research focuses on integrating experimental pharmacology with computational 
 <img src="https://img.shields.io/badge/LiveDNA-7B1FA2?style=for-the-badge&logoColor=white">
 </a>
 
-**Publications**
+
+### Publications
 
 ### Peer-Reviewed Journal Articles
 
