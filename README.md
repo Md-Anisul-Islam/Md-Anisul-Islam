@@ -26,20 +26,18 @@ My research focuses on integrating experimental pharmacology with computational 
 
 ## Research Tools
 
-- AutoDock Vina
+- Autodock Vina
 - PyRx
 - Discovery Studio
+- PyMol
 - Chimera
-- Schrödinger Maestro
+- GraphPad Prism
+- Schrodinger Maestro
 - GROMACS
 - Gaussian
-- R Programming
-
-## Publications
-
-1. Anti-inflammatory, analgesic and antioxidant effects of *Shirakiopsis indica* (2024)
-
-2. Methanolic extract of *Lasia spinosa* rhizome (2025)
+- Zotero
+- Mendeley
+- EndNote
 
 ## Education
 
@@ -50,6 +48,7 @@ BGC Trust University Bangladesh
 
 **Product Manager, BrightBrain AI UK**
 Remote Job
+
 **Senior Officer, Quality Assurance**  
 Zenith Pharmaceuticals Ltd.
 
