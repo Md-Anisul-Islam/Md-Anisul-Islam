@@ -158,10 +158,10 @@ BGC Trust University Bangladesh
 
 ## Professional Experience
 
-**Product Manager, BrightBrain AI UK**
+**1.** **Product Manager, BrightBrain AI, UK**
 Remote Job
 
-**Senior Officer, Quality Assurance**  
+**2.** **Senior Officer, Quality Assurance**  
 Zenith Pharmaceuticals Ltd.
 
 ## Connect With Me
