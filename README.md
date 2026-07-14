@@ -54,53 +54,57 @@ Zenith Pharmaceuticals Ltd.
 
 ## Connect With Me
 
-<a href="www.linkedin.com/in/md-anisul-islam1">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/md-anisul-islam1">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
+<!-- Google Scholar -->
 <a href="https://scholar.google.com/citations?user=UvxoeREAAAAJ&hl=en&authuser=2">
-<img src="https://img.shields.io/badge/Google%20Scholar-Profile-red?style=for-the-badge&logo=google-scholar">
+<img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white">
 </a>
 
+<!-- ResearchGate -->
 <a href="https://www.researchgate.net/profile/Md-Islam-1377/research">
-<img src="https://img.shields.io/badge/ResearchGate-Profile-green?style=for-the-badge&logo=researchgate">
+<img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white">
 </a>
 
+<!-- ORCID -->
 <a href="https://orcid.org/0009-0002-0276-2204">
-<img src="https://img.shields.io/badge/ORCID-Profile-brightgreen?style=for-the-badge&logo=orcid">
+<img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white">
 </a>
 
-<!-- Web of Science Researcher Profile -->
+<!-- Web of Science -->
 <a href="https://www.webofscience.com/wos/author/record/QQC-3630-2026">
-<img src="https://img.shields.io/badge/Web%20of%20Science-Profile-orange?style=for-the-badge&logo=clarivate">
+<img src="https://img.shields.io/badge/Web%20of%20Science-5C2D91?style=for-the-badge&logo=clarivate&logoColor=white">
 </a>
 
-<!-- Scopus Author Profile -->
+<!-- Scopus -->
 <a href="https://www.scopus.com/authid/detail.uri?authorId=59314790700">
-<img src="https://img.shields.io/badge/Scopus-Author%20Profile-blue?style=for-the-badge&logo=elsevier">
+<img src="https://img.shields.io/badge/Scopus-F36C21?style=for-the-badge&logo=elsevier&logoColor=white">
 </a>
 
-<!-- LiveDNA Profile Pending -->
+<!-- LiveDNA -->
 <a href="YOUR_LIVEDNA_PROFILE_URL">
-<img src="https://img.shields.io/badge/LiveDNA-Profile-purple?style=for-the-badge">
+<img src="https://img.shields.io/badge/LiveDNA-7B1FA2?style=for-the-badge&logoColor=white">
 </a>
 
-<!-- Kaggle Profile -->
+<!-- Kaggle -->
 <a href="YOUR_KAGGLE_PROFILE_URL">
-<img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white">
 </a>
 
-<!-- Personal Portfolio Website -->
+<!-- Portfolio -->
 <a href="YOUR_PORTFOLIO_WEBSITE_URL">
-<img src="https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge&logo=googlechrome">
+<img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
 
-<!-- YouTube Channel -->
+<!-- YouTube -->
 <a href="YOUR_YOUTUBE_CHANNEL_URL">
-<img src="https://img.shields.io/badge/YouTube-Channel-red?style=for-the-badge&logo=youtube">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 
-<!-- Medium Profile -->
+<!-- Medium -->
 <a href="YOUR_MEDIUM_PROFILE_URL">
-<img src="https://img.shields.io/badge/Medium-Profile-black?style=for-the-badge&logo=medium">
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
 </a>
