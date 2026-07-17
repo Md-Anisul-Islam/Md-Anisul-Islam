@@ -50,7 +50,7 @@ My research focuses on integrating experimental pharmacology with computational 
 </a>
 
 <!-- LiveDNA -->
-<a href="YOUR_LIVEDNA_PROFILE_URL">
+<a href="https://livedna.org/account/index.php">
 <img src="https://img.shields.io/badge/LiveDNA-7B1FA2?style=for-the-badge&logoColor=white">
 </a>
 
@@ -169,22 +169,17 @@ BGC Trust University Bangladesh
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<!-- Kaggle -->
-<a href="YOUR_KAGGLE_PROFILE_URL">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white">
-</a>
-
 <!-- Portfolio -->
-<a href="YOUR_PORTFOLIO_WEBSITE_URL">
+<a href="https://mdanisulislam.com/">
 <img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
 
 <!-- YouTube -->
-<a href="YOUR_YOUTUBE_CHANNEL_URL">
+<a href="https://www.youtube.com/@SynapseScholarbyAnis">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 
 <!-- Medium -->
-<a href="YOUR_MEDIUM_PROFILE_URL">
+<a href="https://medium.com/@Md-Anisul-Islam">
 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
 </a>
